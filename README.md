@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: he/him/his
 
-[![NygilNet's GitHub stats](https://github-readme-stats.vercel.app/api?username=NygilNet)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NygilNet&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📱 Contact Me At:
 
@@ -12,7 +12,7 @@
 </a>
 <a>
   <img src="https://img.shields.io/badge/WellFound-gray?logo=angellist&logoColor=white&style=for-the-badge" alt="WellFound Badge" />
-</a>>
+</a>
 </div>
 
 <!--
