@@ -2,7 +2,13 @@
 
 - 😄 Pronouns: he/him/his
 
+<div id="github-widgets">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NygilNet&show_icons=true&theme=synthwave&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+  
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
+
+
 
 - 📱 Contact Me At:
 
@@ -10,7 +16,7 @@
 <a href="https://www.linkedin.com/in/nygil-nettles-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
 </a>
-<a>
+<a href="https://wellfound.com/u/nygil-colin-nettles">
   <img src="https://img.shields.io/badge/WellFound-gray?logo=angellist&logoColor=white&style=for-the-badge" alt="WellFound Badge" />
 </a>
 </div>
