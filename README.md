@@ -5,6 +5,8 @@
 <div id="github-widgets">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NygilNet&show_icons=true&theme=synthwave&count_private=true&hide=stars)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NygilNettheme=synthwave)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
