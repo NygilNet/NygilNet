@@ -6,7 +6,7 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NygilNet&show_icons=true&theme=synthwave&count_private=true&hide=stars)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NygilNettheme=synthwave)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NygilNet&theme=synthwave)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
