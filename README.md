@@ -13,8 +13,8 @@
 </div>
 
 - 🌱 I’m currently learning ...
-  - C# / C++
-  - Tailwind CSS
+  -- C# / C++
+  -- Tailwind CSS
 
 
 
